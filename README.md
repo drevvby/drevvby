@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # 💫 About Me:
 🔭 Student at the Ohio State University<br>🌱 Currently a Sophomore learning C fundamentals
