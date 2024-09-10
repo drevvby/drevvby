@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 Student at the Ohio State University<br>🌱 Currently a Sophomore learning C fundamentals
+🔭 Student at the Ohio State University<br>🌱 Currently a Junior learning web development
 
 
 ## 🌐 Socials:
